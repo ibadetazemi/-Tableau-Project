@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(Fill in your description and goals here: 
+(Fill in your description and goals here: To try to find interesting pattern, trend, outlier and try to find different data from data set. And create graphs/tables/maps to help understand the data)
 
 ## Process
 ### (Step 1) Connect your data 
