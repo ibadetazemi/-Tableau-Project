@@ -13,6 +13,9 @@
 ### (Step 7) Create the dashboard to answer your questions that you came up with in step 8 and try to revise your questions along the way. 
 ### (Step 8) Present your dashboard)
 
+Questions:
+
+1.) Create a map of Airbnb with current rental prices for each state.
 
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
