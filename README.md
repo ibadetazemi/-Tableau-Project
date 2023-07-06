@@ -21,4 +21,4 @@
 (discuss challenges you faced in the project)
 
 ## Future Goals
-(what would you do if you had more time?)
+(If I had more time I would go more in depth with finding more patterns, outliers, keypoints as well as creating more detailed graphs/tables/maps.)
