@@ -30,7 +30,7 @@ I am analyzing Airbnb dataset of New York City to draw interesting insights and 
 Questions:
 
 1.) Create a map of New York City with current rental prices.
-2.) Which are the popular neighborhoods, their average prices and no. of listings?
+2.) Which are the popular neighborhoods, their average prices and number of listings?
 3.) What are percent share of different property type and room type?
 4.) How the pricing is varying with location, property type, reviews?
 5.) What are the different correlations between type of hosts and factors like- reviews & price?
@@ -44,7 +44,7 @@ Airbnb Statistics • Over 4 million listings worldwide • 150 million users in
 
 Data Cleaning
 
-Initially, Data was very messy and uncleaned, so we used external tools to make it ready for the Visualization. Data cleaning has been done using Jupyter Notebook and Tableau Prep. Finally, the cleaned datasets of both the cities are merged in Jupyter Notebook to get the ‘Final Dataset’ which has been used for doing the visualizations.
+The data was not to bad, so we used external tools to make it ready for the Visualization. Data cleaning has been done using Jupyter Notebook and Tableau which has been used for doing the visualizations.
 
 Visualization Tool
 
@@ -52,7 +52,7 @@ Tableau has been used as the Data Visualization tool as it is a very powerful, s
 
 Target Audience The insights drawn could be helpful for both Hosts and Users. Hosts- People putting up their place for rental purpose. Users- People searching for accommodation.
 
-Our storyboard has been categorized into four categories-
+My storyboard has been categorized into four categories-
 
 Overview of Airbnb
 Property analysis
