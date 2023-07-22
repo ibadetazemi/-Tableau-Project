@@ -16,14 +16,6 @@
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 
-## Challenges 
-(discuss challenges you faced in the project)
-
-## Future Goals
-(If I had more time I would go more in depth with finding more patterns, outliers, keypoints as well as creating more detailed graphs/tables/maps.)
-
-================
-
 Airbnb Insights Data Visualization (Tableau)
 I am analyzing Airbnb dataset of New York City to draw interesting insights and address some questions.
 
@@ -58,3 +50,9 @@ Overview of Airbnb
 Property analysis
 Pricing analysis
 Host analysis
+
+## Challenges 
+(discuss challenges you faced in the project)
+
+## Future Goals
+(If I had more time I would go more in depth with finding more patterns, outliers, keypoints as well as creating more detailed graphs/tables/maps.)
