@@ -13,17 +13,6 @@
 ### (Step 7) Create the dashboard to answer your questions that you came up with in step 8 and try to revise your questions along the way. 
 ### (Step 8) Present your dashboard)
 
-Questions:
-
-1.) Create a map of New York City with current rental prices.
-2.) 
-3.)
-4.)
-5.)
-6.)
-7.)
-8.)
-
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 
