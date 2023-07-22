@@ -14,7 +14,8 @@
 ### (Step 8) Present your dashboard)
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.
+Answer: I chose option 2 and the dataset I selected was AirBnb. I had created 5 visualisations and I chose them because they draw interesting insights and address some questions.)
 
 Airbnb Insights Data Visualization (Tableau)
 I am analyzing Airbnb dataset of New York City to draw interesting insights and address some questions.
