@@ -15,7 +15,14 @@
 
 Questions:
 
-1.) Create a map of Airbnb with current rental prices for each state.
+1.) Create a map of New York City with current rental prices.
+2.) 
+3.)
+4.)
+5.)
+6.)
+7.)
+8.)
 
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
@@ -25,3 +32,40 @@ Questions:
 
 ## Future Goals
 (If I had more time I would go more in depth with finding more patterns, outliers, keypoints as well as creating more detailed graphs/tables/maps.)
+
+================
+
+Airbnb Insights Data Visualization (Tableau)
+I am analyzing Airbnb dataset of New York City to draw interesting insights and address some questions.
+
+Questions:
+
+1.) Create a map of New York City with current rental prices.
+2.) Which are the popular neighborhoods, their average prices and no. of listings?
+3.) What are percent share of different property type and room type?
+4.) How the pricing is varying with location, property type, reviews?
+5.) What are the different correlations between type of hosts and factors like- reviews & price?
+The tableau visualization has been published and can be directly viewed using the following link: (Tableau server link) 
+
+Why Airbnb ?
+
+Airbnb is a leading website where people can book beds, rooms, apartments, homes etc. all around the world. It provides a platform for the people to rent out their places at their convenience without involving complex channels or doing major investments. Users can also find a place to stay at much competitive prices as compared to hotels. Through Airbnb, people can find place to stay even in the areas where the likelihood of having hotels is very less. Many a times, even people prefer to stay in local settings, with local people.
+
+Airbnb Statistics • Over 4 million listings worldwide • 150 million users in 191 countries • Worldwide value is $32 billion • Global growth rate since 2009 - 153% • Estimated revenue by 2020 - $8.5 billion
+
+Data Cleaning
+
+Initially, Data was very messy and uncleaned, so we used external tools to make it ready for the Visualization. Data cleaning has been done using Jupyter Notebook and Tableau Prep. Finally, the cleaned datasets of both the cities are merged in Jupyter Notebook to get the ‘Final Dataset’ which has been used for doing the visualizations.
+
+Visualization Tool
+
+Tableau has been used as the Data Visualization tool as it is a very powerful, secure and flexible end to end analytics platform where we can visualize our data quickly and easily by creating interactive dashboards and convey an overall story using storyboard. Tableau is been used predominantly in the industry for creating powerful visualizations.
+
+Target Audience The insights drawn could be helpful for both Hosts and Users. Hosts- People putting up their place for rental purpose. Users- People searching for accommodation.
+
+Our storyboard has been categorized into four categories-
+
+Overview of Airbnb
+Property analysis
+Pricing analysis
+Host analysis
