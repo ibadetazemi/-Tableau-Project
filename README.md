@@ -31,9 +31,7 @@ The tableau visualization has been published and can be directly viewed using th
 
 Why Airbnb ?
 
-Airbnb is a leading website where people can book beds, rooms, apartments, homes etc. all around the world. It provides a platform for the people to rent out their places at their convenience without involving complex channels or doing major investments. Users can also find a place to stay at much competitive prices as compared to hotels. Through Airbnb, people can find place to stay even in the areas where the likelihood of having hotels is very less. Many a times, even people prefer to stay in local settings, with local people.
-
-Airbnb Statistics • Over 4 million listings worldwide • 150 million users in 191 countries • Worldwide value is $32 billion • Global growth rate since 2009 - 153% • Estimated revenue by 2020 - $8.5 billion
+Airbnb is a leading website that helps people(hosts) to make a profit by putting their place online for rent. It also allows people(users) to rent a place for accommodation. People can book beds, rooms, apartments, homes etc. all around the world. 
 
 Data Cleaning:
 
