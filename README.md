@@ -35,15 +35,15 @@ Airbnb is a leading website where people can book beds, rooms, apartments, homes
 
 Airbnb Statistics • Over 4 million listings worldwide • 150 million users in 191 countries • Worldwide value is $32 billion • Global growth rate since 2009 - 153% • Estimated revenue by 2020 - $8.5 billion
 
-Data Cleaning
+Data Cleaning:
 
-The data was not to bad, so we used external tools to make it ready for the Visualization. Data cleaning has been done using Jupyter Notebook and Tableau which has been used for doing the visualizations.
+The data was not to bad, so I had used Python/Jupyter to make it ideal for the Visualization. Data cleaning has been done using Jupyter Notebook as well as Tableau for creating visualizations.
 
-Visualization Tool
+Visualization Tool:
 
 Tableau has been used as my Data Visualization tool as it is easy to use as well as provides sophisticated graphs/tables/maps. It is also very secure + flexible. Tableau is mainly used for creating powerful visualizations.
 
-Target Audience: (Hosts and Users). Hosts- People putting up their place for rental purposes/profit. Users- People searching for places to rent/accommodation.
+Target Audience: (Hosts and Users). Hosts- Individuals putting up their place for rental purposes/profit. Users- Individuals searching for places to rent/accommodation.
 
 My storyboard has been categorized into these 4 categories:
 
