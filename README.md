@@ -41,11 +41,11 @@ The data was not to bad, so we used external tools to make it ready for the Visu
 
 Visualization Tool
 
-Tableau has been used as the Data Visualization tool as it is a very powerful, secure and flexible end to end analytics platform where we can visualize our data quickly and easily by creating interactive dashboards and convey an overall story using storyboard. Tableau is been used predominantly in the industry for creating powerful visualizations.
+Tableau has been used as my Data Visualization tool as it is easy to use as well as provides sophisticated graphs/tables/maps. It is also very secure + flexible. Tableau is mainly used for creating powerful visualizations.
 
-Target Audience The insights drawn could be helpful for both Hosts and Users. Hosts- People putting up their place for rental purpose. Users- People searching for accommodation.
+Target Audience: (Hosts and Users). Hosts- People putting up their place for rental purposes/profit. Users- People searching for places to rent/accommodation.
 
-My storyboard has been categorized into four categories-
+My storyboard has been categorized into these 4 categories:
 
 1.) Overview of Airbnb
 2.) Property analysis
@@ -53,7 +53,7 @@ My storyboard has been categorized into four categories-
 4.) Host analysis
 
 ## Challenges 
-(Some challenges include customizing Tableau in order to address the questions being asked. Another challenge was finding appropriate questions.)
+(Some challenges I had faced were; customizing Tableau in order to address the questions being asked. Finding appropriate questions was another challenge that I had faced.)
 
 ## Future Goals
 (If I had more time I would go more in depth with finding more patterns, outliers, keypoints as well as creating more detailed graphs/tables/maps.)
