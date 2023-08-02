@@ -39,7 +39,7 @@ The data was not to bad, so I had used Python/Jupyter to make it ideal for the V
 
 Visualization Tool:
 
-Tableau has been used as my Data Visualization tool as it is easy to use as well as provides sophisticated graphs/tables/maps. It is also very secure + flexible. Tableau is mainly used for creating powerful visualizations.
+Tableau + Jupyter has been used as my Data Visualization tool as it is easy to use as well as provides sophisticated graphs/tables/maps. It is also very secure + flexible. Tableau is mainly used for creating powerful visualizations.
 
 Target Audience: (Hosts and Users). Hosts- Individuals putting up their place for rental purposes/profit. Users- Individuals searching for places to rent/accommodation.
 
