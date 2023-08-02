@@ -46,9 +46,9 @@ Target Audience: (Hosts and Users). Hosts- Individuals putting up their place fo
 My storyboard has been categorized into these 4 categories:
 
 1.) Overview of Airbnb
-2.) Property analysis
-3.) Pricing analysis
-4.) Host analysis
+2.) Property Analysis
+3.) Pricing Analysis
+4.) Host Analysis
 
 ## Challenges 
 (Some challenges I had faced were; customizing Tableau in order to address the questions being asked. Finding appropriate questions was another challenge that I had faced.)
