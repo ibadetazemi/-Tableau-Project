@@ -20,14 +20,20 @@ Answer: I chose option 2 and the dataset I selected was AirBnb. I had created 5 
 Airbnb Insights Data Visualization (Tableau)
 I am analyzing Airbnb dataset of New York City to draw interesting insights and address some questions.
 
-Questions:
+QUESTIONS:
 
-1.) Create a map of New York City with current rental prices.
-2.) Which are the popular neighborhoods, their average prices and number of listings?
-3.) What are percent share of different property type and room type?
-4.) How the pricing is varying with location, property type, reviews?
-5.) What are the different correlations between type of hosts and factors like- reviews & price?
-The tableau visualization has been published and can be directly viewed using the following link: (Tableau server link) 
+1.)	What are the current rental prices for each neighbourhood? 
+2.)	Which are the most popular neighborhoods, along with their listings?
+3.)	Regarding neighborhoods, how are factors such as: (score ratings)?
+4.)	What is the median of different property type and room count?
+5.)	How is the pricing varying with: (property type)?
+6.)	What are the different correlations between hosts and factors like reviews & price?
+7.)	What are the varying costs of different room types?
+8.)	What is the difference between different room types in varying and count of room type?
+9.)	What are the varying differences between hosts and factors like: reviews?
+10.)	How do hosts, vary regarding pricing for different room types. With factors such as: (score ratings, records, beds, number of listings, price etc.)?
+11.)	What are the current prices of different property type and room type?
+
 
 Why Airbnb ?
 
