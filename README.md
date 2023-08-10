@@ -57,7 +57,7 @@ My storyboard has been categorized into these 4 categories:
 4.) Host Analysis
 
 ## Challenges 
-(Some challenges I had faced were; customizing Tableau in order to address the questions being asked. Finding appropriate questions was another challenge that I had faced.)
+(Some challenges I had faced were; customizing Tableau in order to address the questions being asked. Finding appropriate questions was another challenge that I had faced. And time was also a factor.)
 
 ## Future Goals
 (If I had more time I would go more in depth with finding more patterns, outliers, keypoints as well as creating more detailed graphs/tables/maps.)
