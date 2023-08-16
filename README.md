@@ -22,17 +22,22 @@ I am analyzing Airbnb dataset of New York City to draw interesting insights and 
 
 QUESTIONS:
 
-1.)	What are the current rental prices for each neighbourhood? 
-2.)	Which are the most popular neighborhoods, along with their listings?
+QUESTIONS:
+1.)	Which are the most popular neighborhoods, along with their listings?
+2.)	Regarding listings, how are factors such as: (ratings)? 
 3.)	Regarding neighborhoods, how are factors such as: (score ratings)?
-4.)	What is the median of different property type and room count?
-5.)	How is the pricing varying with: (property type)?
-6.)	What are the different correlations between hosts and factors like reviews & price?
-7.)	What are the varying costs of different room types?
-8.)	What is the difference between different room types in varying and count of room type?
-9.)	What are the varying differences between hosts and factors like: reviews?
-10.)	How do hosts, vary regarding pricing for different room types. With factors such as: (score ratings, records, beds, number of listings, price etc.)?
-11.)	What are the current prices of different property type and room type?
+4.)	What are the varying differences between hosts and factors like: number of listings per host?
+5.)	What are the varying differences between property type and factors like: number of listings?
+6.)	What are the current rental prices for each neighbourhood? 
+7.)	What are the varying differences of different property type and room count?
+8.)	How is the pricing varying with: (property type)?
+9.)	What are the different correlations between hosts and factors like reviews & price?
+10.)	What are the varying costs of different room types?
+11.)	What is the difference between different room types in varying and count of room type?
+12.)	What are the varying differences between hosts and factors like: reviews?
+13.)	 How do hosts, vary regarding pricing for different room types. With factors such as: (score ratings, records, beds, number of listings, price etc.)?
+14.)	 What are the current prices of different property type and room type?
+15.)	How do room type + count of room type vary from year to year? 
 
 
 Why Airbnb ?
